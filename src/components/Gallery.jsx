@@ -186,9 +186,6 @@ export default function Gallery() {
             &times;
           </button>
           
-          <button className="lightbox-nav-btn prev" onClick={prevLightboxImage} aria-label="Previous Image">
-            <i className="fas fa-chevron-left"></i>
-          </button>
           
           <div className="lightbox-content" onClick={(e) => e.stopPropagation()}>
             <img 
