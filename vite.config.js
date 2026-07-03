@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 // Safe fallback for base path configuration
-const repoName = '/turismo-react/'
+const repoName = '/ExFinal/'
 
 // https://vite.dev/config/
 export default defineConfig({

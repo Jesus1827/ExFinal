@@ -60,61 +60,61 @@
     },
     {
       "name": "Actividades y noticias",
-      "url": "#"
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=7465"
     },
     {
       "name": "Demanda Turística Receptiva",
-      "url": "#",
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=13786",
       "submenu": [
         {
           "name": "Gráficos mensuales",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=14176"
         },
         {
           "name": "Gráficos anuales",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=14184"
         }
       ]
     },
     {
       "name": "Gasto Turístico Internacional",
-      "url": "#"
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=14191"
     },
     {
       "name": "Documentos",
-      "url": "#",
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=3749#",
       "submenu": [
         {
           "name": "Información estadística",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=3749#"
         },
         {
           "name": "Convocatoria",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=15069#"
         },
         {
           "name": "Normativa Turística",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=10662#"
         },
         {
           "name": "Guía Técnica del Inventario",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=10660#"
         },
         {
           "name": "SIRETUR",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=10664#"
         },
         {
           "name": "Catálogos y Guías",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=7572#"
         },
         {
           "name": "200 años 200 Destinos",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=11479#"
         },
         {
           "name": "PSDI Sector Turístico",
-          "url": "#"
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=11654#"
         }
       ]
     },
