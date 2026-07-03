@@ -1,49 +1,127 @@
 {
   "navigation": [
-    { "name": "Inicio", "url": "#inicio" },
-    { "name": "Institución", "url": "#institucion" },
+    {
+      "name": "Inicio",
+      "url": "https://www.turismo.produccion.gob.bo"
+    },
+    {
+      "name": "Institución",
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=4130"
+    },
     {
       "name": "Visita Bolivia",
       "url": "#visita-bolivia",
       "submenu": [
-        { "name": "Oferta Turística", "url": "#" },
-        { "name": "Calendario", "url": "#" },
-        { "name": "Chuquisaca", "url": "#" },
-        { "name": "Potosí", "url": "#potosi" },
-        { "name": "La Paz", "url": "#" },
-        { "name": "Oruro", "url": "#" },
-        { "name": "Santa Cruz", "url": "#" },
-        { "name": "Tarija", "url": "#" },
-        { "name": "Pando", "url": "#" },
-        { "name": "Beni", "url": "#" },
-        { "name": "Cochabamba", "url": "#" }
+        {
+          "name": "Oferta Turística",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=7038"
+        },
+        {
+          "name": "Calendario",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=7870"
+        },
+        {
+          "name": "Chuquisaca",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=8525"
+        },
+        {
+          "name": "Potosí",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=9170"
+        },
+        {
+          "name": "La Paz",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=9192"
+        },
+        {
+          "name": "Oruro",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=9031"
+        },
+        {
+          "name": "Santa Cruz",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=9394"
+        },
+        {
+          "name": "Tarija",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=9360"
+        },
+        {
+          "name": "Pando",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=9222"
+        },
+        {
+          "name": "Beni",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=9272"
+        },
+        {
+          "name": "Cochabamba",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=9320"
+        }
       ]
     },
-    { "name": "Actividades y noticias", "url": "#" },
+    {
+      "name": "Actividades y noticias",
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=7465"
+    },
     {
       "name": "Demanda Turística Receptiva",
-      "url": "#",
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=13786",
       "submenu": [
-        { "name": "Gráficos mensuales", "url": "#" },
-        { "name": "Gráficos anuales", "url": "#" }
+        {
+          "name": "Gráficos mensuales",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=14176"
+        },
+        {
+          "name": "Gráficos anuales",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=14184"
+        }
       ]
     },
-    { "name": "Gasto Turístico Internacional", "url": "#" },
+    {
+      "name": "Gasto Turístico Internacional",
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=14191"
+    },
     {
       "name": "Documentos",
-      "url": "#",
+      "url": "https://www.turismo.produccion.gob.bo/?page_id=3749#",
       "submenu": [
-        { "name": "Información estadística", "url": "#" },
-        { "name": "Convocatoria", "url": "#" },
-        { "name": "Normativa Turística", "url": "#" },
-        { "name": "Guía Técnica del Inventario", "url": "#" },
-        { "name": "SIRETUR", "url": "#" },
-        { "name": "Catálogos y Guías", "url": "#" },
-        { "name": "200 años 200 Destinos", "url": "#" },
-        { "name": "PSDI Sector Turístico", "url": "#" }
+        {
+          "name": "Información estadística",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=3749#"
+        },
+        {
+          "name": "Convocatoria",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=15069#"
+        },
+        {
+          "name": "Normativa Turística",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=10662#"
+        },
+        {
+          "name": "Guía Técnica del Inventario",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=10660#"
+        },
+        {
+          "name": "SIRETUR",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=10664#"
+        },
+        {
+          "name": "Catálogos y Guías",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=7572#"
+        },
+        {
+          "name": "200 años 200 Destinos",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=11479#"
+        },
+        {
+          "name": "PSDI Sector Turístico",
+          "url": "https://www.turismo.produccion.gob.bo/?page_id=11654#"
+        }
       ]
     },
-    { "name": "Galeria", "url": "#galeria" }
+    {
+      "name": "Galeria",
+      "url": "#galeria"
+    }
   ],
   "destinations": [
     {
@@ -90,12 +168,30 @@
     }
   ],
   "gallery": [
-    { "title": "Vista de la Ciudad de Potosí", "src": "./assets/img/potosi-view1.jpg" },
-    { "title": "Cerro Rico o Sumaj Orcko", "src": "./assets/img/potosi-view2.jpg" },
-    { "title": "Laguna Altiplánica", "src": "./assets/img/pt5.jpg" },
-    { "title": "Salar de Uyuni", "src": "./assets/img/SALAR-DE-UYUNI-2-HUASCAR-INTI-sc.jpg" },
-    { "title": "Isla Incahuasi", "src": "./assets/img/Salar-10-scaled.jpg" },
-    { "title": "Cementerio de Trenes", "src": "./assets/img/potosi-view3.jpg" }
+    {
+      "title": "Vista de la Ciudad de Potosí",
+      "src": "./assets/img/potosi-view1.jpg"
+    },
+    {
+      "title": "Cerro Rico o Sumaj Orcko",
+      "src": "./assets/img/potosi-view2.jpg"
+    },
+    {
+      "title": "Laguna Altiplánica",
+      "src": "./assets/img/pt5.jpg"
+    },
+    {
+      "title": "Salar de Uyuni",
+      "src": "./assets/img/SALAR-DE-UYUNI-2-HUASCAR-INTI-sc.jpg"
+    },
+    {
+      "title": "Isla Incahuasi",
+      "src": "./assets/img/Salar-10-scaled.jpg"
+    },
+    {
+      "title": "Cementerio de Trenes",
+      "src": "./assets/img/potosi-view3.jpg"
+    }
   ],
   "thematics": {
     "patrimonial": {
@@ -122,11 +218,36 @@
     "phone": "+591 (2) 2184444",
     "fax": "+591 (2) 2124933",
     "socials": [
-      { "name": "Facebook", "url": "https://www.facebook.com/vmtbolivia", "icon": "fab fa-facebook", "desc": "Viceministerio de Turismo" },
-      { "name": "YouTube", "url": "https://www.youtube.com/channel/UCJH90kEH04vCNS4jUU29Fhw", "icon": "fab fa-youtube", "desc": "Viceministerio de Turismo" },
-      { "name": "Pagina Web", "url": "https://produccion.gob.bo/", "icon": "fas fa-globe", "desc": "Ministerio de Desarrollo Productivo" },
-      { "name": "Instagram", "url": "https://www.instagram.com/vmtbolivia/", "icon": "fab fa-instagram", "desc": "Viceministerio de Turismo" },
-      { "name": "Teléfono", "url": "tel:+59122356738", "icon": "fas fa-phone-alt", "desc": "Viceministerio de Turismo: (+591) 2-2356738" }
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/vmtbolivia",
+        "icon": "fab fa-facebook",
+        "desc": "Viceministerio de Turismo"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/channel/UCJH90kEH04vCNS4jUU29Fhw",
+        "icon": "fab fa-youtube",
+        "desc": "Viceministerio de Turismo"
+      },
+      {
+        "name": "Pagina Web",
+        "url": "https://produccion.gob.bo/",
+        "icon": "fas fa-globe",
+        "desc": "Ministerio de Desarrollo Productivo"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/vmtbolivia/",
+        "icon": "fab fa-instagram",
+        "desc": "Viceministerio de Turismo"
+      },
+      {
+        "name": "Teléfono",
+        "url": "tel:+59122356738",
+        "icon": "fas fa-phone-alt",
+        "desc": "Viceministerio de Turismo: (+591) 2-2356738"
+      }
     ]
   }
 }
