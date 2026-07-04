@@ -1,5 +1,5 @@
 import React from 'react';
-// HOLA ING QUE TAL 
+
 export default function Biosecurity() {
   const bgStyle = {
     backgroundImage: `url(${import.meta.env.BASE_URL}assets/img/potosi-view2.jpg)`,
