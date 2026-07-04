@@ -1,4 +1,38 @@
 import React, { useState, useEffect, useRef } from 'react';
+import data from '../data.json';
+
+export default function Testimonials() {
+  const sliderItems = data.destinations.slice(0, 4);
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [isHovered, setIsHovered] = useState(false);
+  const autoPlayRef = useRef();
+
+  const nextSlide = () => {
+    setCurrentIndex((prevIndex) => (prevIndex + 1) % sliderItems.length);
+  };
+
+  const prevSlide = () => {
+    setCurrentIndex((prevIndex) => 
+      prevIndex === 0 ? sliderItems.length - 1 : prevIndex - 1
+    );
+  };
+
+  const goToSlide = (index) => {
+    setCurrentIndex(index);
+  };
+
+  useEffect(() => {
+    autoPlayRef.current = nextSlide;
+  });
+
+  useEffect(() => {
+    if (isHovered) return;
+    const play = () => {
+      autoPlayRef.current();
+    };
+    const interval = setInterval(play, 5000);
+    return () => clearInterval(interval);
+  }, [isHovered]);
 
   return (
     <section 
